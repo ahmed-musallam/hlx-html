@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://hlx-html.free.beeceptor.com
+  /: 
+    url: https://hlx-html.free.beeceptor.com
+    type: markup
