@@ -1,9 +1,8 @@
-# Your Project's Title...
-Your project's description...
+# A test of returning HTML to helix
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--hlx-html--ahmed-musallam.hlx.page/index.html
+- Live: https://main--hlx-html--ahmed-musallam.hlx.live/index.html
 
 ## Installation
 
