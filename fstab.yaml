@@ -1,4 +1,5 @@
 mountpoints:
   /: 
-    url: https://hlx-html.free.beeceptor.com
+    url: https://raw.githubusercontent.com/ahmed-musallam/hlx-html/main/pages
     type: markup
+    suffix: ".html"
