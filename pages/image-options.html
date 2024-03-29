@@ -6,21 +6,27 @@
     <main>
       <div>
         <h1>Image Options</h1>
-        <h2>src only</h2>
-        <img src="https://picsum.photos/1000/1000" />
-        <h2>src, height, width</h2>
-        <img src="https://picsum.photos/1000/1000" height="99" width="99" />
-        <h2>src, height, width, alt</h2>
+        <p>The following image original HTML looks like this:</p>
+        <p>
+          <code
+            ><img
+              src="https://picsum.photos/1000/1000"
+              height="100"
+              width="100"
+              alt="Image Alt Here"
+              title="Image Title Here"
+              data-foo="bar"
+              foo="bar"
+          /></code>
+        </p>
         <img
           src="https://picsum.photos/1000/1000"
           height="100"
           width="100"
           alt="Image Alt Here"
-        />
-        <h2>data in alt</h2>
-        <img
-          src="https://picsum.photos/1000/1000"
-          alt="Image Alt Here {hover='hover text' width='250' align='center' zoomable='yes'}"
+          title="Image Title Here"
+          data-foo="bar"
+          foo="bar"
         />
       </div>
     </main>
